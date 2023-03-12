@@ -3,7 +3,7 @@
 
 <h1 align="center">Hello, I am chmvrsonn</h1>
 
-## Information
+## Information:
 <ul>
 	<li>Age: 15</li>
 	<li>Programming since: Late 2019</li>
