@@ -5,7 +5,7 @@
 
 ## Information:
 <ul>
-	<li>Age: 15</li>
+	<li>Age: 16</li>
 	<li>Programming since: Late 2019</li>
 	<li>Location: Poland</li>
 </ul>
